@@ -1,0 +1,201 @@
+image_idx,idx,local_description,instructions,mturk_idx,category,bg_csd-win,bg_csd-lose,text_csd-win,text_csd-lose,qual_csd-win,qual_csd-lose,pref_csd-win,pref_csd-lose
+250,253538-output2,mascot with young men playing volleyball and mosque in background,let there be a mascot,0,add,3.0,2.0,3.0,2.0,4.0,1.0,4.0,1.0
+165,323789-output1,work desk with world map on wall,let there be a world map on the wall,1,add,7.0,3.0,9.0,1.0,8.0,2.0,10.0,0.0
+593,237041-output2,helicopter being struck by lightening,Add a helicopter being struck by lightening.,2,add,3.0,2.0,2.0,3.0,2.0,3.0,2.0,3.0
+881,329737-output2,A very old yellow keyboard computer with a blue webpage on a black background and a hamster.,replace the mouse with a hamster,3,change,8.0,2.0,9.0,1.0,7.0,3.0,8.0,2.0
+647,147501-input,metallic two-door refrigerator,Make the fridge metallic.,4,change,3.0,7.0,4.0,6.0,6.0,4.0,2.0,8.0
+758,411727-input,laptop with media player on screen,let the laptop show a media player on its screen,5,change,1.0,4.0,1.0,4.0,0.0,5.0,1.0,4.0
+805,322574-output2,"hot dog, fries, soda can, and salad",Add a salad in the right side,6,add,10.0,0.0,8.0,2.0,9.0,1.0,8.0,2.0
+282,232489-output1,sandwich on a ceramic plate,Replace the pizza with a sandwich.,7,change,1.0,4.0,4.0,1.0,4.0,1.0,4.0,1.0
+686,205069-input,man touching a drag queen with a red hat,change the pink hat to a red hat,8,change,1.0,4.0,1.0,4.0,0.0,5.0,2.0,3.0
+207,483357-input,bathroom with vase of flowers on sink,Le'ts add a vase of flowers on the sink.,9,add,4.0,1.0,3.0,2.0,3.0,2.0,4.0,1.0
+920,77444-output1,cup of tea,add a cup of tea,10,add,6.0,4.0,9.0,1.0,6.0,4.0,8.0,2.0
+164,323789-input,laughing man at work desk,make the man laugh,11,change,3.0,7.0,3.0,7.0,4.0,6.0,3.0,7.0
+606,140021-input,blue scissors and fabric on table,make the scissor blue,12,change,4.0,1.0,4.0,1.0,5.0,0.0,5.0,0.0
+217,106172-output1,guy wearing sunglasses with a guitar,He should be wearing sunglasses.,13,add,3.0,2.0,2.0,3.0,2.0,3.0,1.0,4.0
+444,367107-input,painting of a police officer,replace the stop sign with a painting,14,change,6.0,4.0,5.0,5.0,5.0,5.0,7.0,3.0
+150,383220-input,squirrels,remove the snowmen and add squirrels,15,change,4.0,1.0,2.0,3.0,3.0,2.0,4.0,1.0
+967,154597-output2,dining room with brown door,let the room have a brown door,16,add,7.0,3.0,7.0,3.0,5.0,5.0,6.0,4.0
+132,543833-output1,blue vase and pot with lilies in front of a large window,let the pot next to the vase be blue,17,change,1.0,4.0,2.0,3.0,2.0,3.0,2.0,3.0
+462,303257-output1,smiley face elephants,Paint a smiley face on it.,18,add,9.0,1.0,7.0,3.0,9.0,1.0,8.0,2.0
+336,457986-input,living room and kitchenette with potted plant on table,Have there be a potted plant on the table,19,add,7.0,3.0,8.0,2.0,8.0,2.0,5.0,5.0
+625,410110-input,purses in a crowded room,remove the umbrella,20,remove,0.0,5.0,3.0,2.0,1.0,4.0,2.0,3.0
+447,501864-output2,zeppelin in the sky,let a zeppelin float in the sky,21,add,3.0,2.0,3.0,2.0,2.0,3.0,4.0,1.0
+895,271402-input,tennis uniform girl with scooter,Remove one of the girls.,22,remove,5.0,0.0,2.0,3.0,3.0,2.0,4.0,1.0
+103,459898-output1,bird on zebra,add a bird on the zebra,23,add,3.0,2.0,5.0,0.0,4.0,1.0,4.0,1.0
+706,523978-input,small bathroom with white tub and sink,Let the window be small.,24,add,3.0,2.0,4.0,1.0,5.0,0.0,4.0,1.0
+685,419974-output2,assortment of dog food and treats,let there be an assortment of dog food and treats,25,add,3.0,2.0,4.0,1.0,4.0,1.0,3.0,2.0
+93,461252-output1,plate of tasty food with empty bun,let there be empty bun instead of the sandwich,26,add,4.0,1.0,3.0,2.0,3.0,2.0,3.0,2.0
+29,560472-input,patties on the grill,let there be patties in the pan,27,add,2.0,3.0,3.0,2.0,3.0,2.0,3.0,2.0
+115,279939-input,Closed toilet lid in bathroom.,What if the lid was closed?,28,change,0.0,5.0,1.0,4.0,1.0,4.0,0.0,5.0
+158,125109-output1,blue flowers in vase on red tile floor kitchen with oven and cooker,let the flowers in the vase be blue,29,change,2.0,3.0,3.0,2.0,3.0,2.0,2.0,3.0
+531,507958-output2,flower wallpaper,add flower wall paper,30,add,2.0,3.0,3.0,2.0,2.0,3.0,1.0,4.0
+947,12766-output1,"sushi, soup, wine, and eggs on the table",Put a bowl of eggs on the table.,31,add,3.0,2.0,3.0,2.0,2.0,3.0,2.0,3.0
+578,392850-output2,cutting board with stick of butter,Have there be a stick of butter on the cutting board,32,add,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+449,110327-input,styrofoam tray with carrots,put carrots on the styrofoam tray,33,add,0.0,5.0,3.0,2.0,2.0,3.0,3.0,2.0
+189,137100-output1,plate of pizza,Clear the rest of the table.,34,remove,0.0,5.0,1.0,4.0,0.0,5.0,0.0,5.0
+492,229171-output1,Two laptops showing pictures of elephants on a table top in front of a television.,Have the other laptop also be showing a picture of an elephant,35,change,1.0,4.0,3.0,2.0,2.0,3.0,2.0,3.0
+572,164224-input,white bed in a large hotel room,remove the chairs,36,remove,3.0,2.0,2.0,3.0,2.0,3.0,1.0,4.0
+453,531277-output1,blue plate,The plate could be blue?,37,change,1.0,4.0,3.0,2.0,2.0,3.0,3.0,2.0
+134,262710-input,cowboy hat,replace the cap with a cowboy hat,38,change,1.0,4.0,2.0,3.0,2.0,3.0,3.0,2.0
+674,147471-output2,dog with hat,What if the dog had a hat?,39,add,2.0,3.0,2.0,3.0,2.0,3.0,2.0,3.0
+896,271402-output1,girl in tennis uniform standing next to a scooter with a cat.,Add a cat.,40,add,1.0,4.0,2.0,3.0,1.0,4.0,3.0,2.0
+18,385037-input,A woman sits on top of a motorcycle.,Remove the man.,41,remove,0.0,5.0,1.0,4.0,1.0,4.0,1.0,4.0
+548,528875-input,"tennis ball and pans filled with assorted veggies, fruit and rice",Add a tennis ball,42,add,2.0,3.0,3.0,2.0,3.0,2.0,3.0,2.0
+154,67616-input,red Lamborghini parked in front,Have a red Lamborghini parked in front,43,add,2.0,3.0,1.0,4.0,3.0,2.0,1.0,4.0
+9,483348-output2,wooden bathroom stall with a frog in the toilet.,Repair the floor.,44,change,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+969,573764-input,group of people sitting around a cafeteria table with food.,change the classroom into a cafeteria,45,change,1.0,4.0,2.0,3.0,1.0,4.0,1.0,4.0
+138,156195-output1,model posing next to sheep,Have there be a model posing next to the sheep,46,add,1.0,4.0,3.0,2.0,2.0,3.0,2.0,3.0
+155,71409-input,new car on city street,Put a new car on the street.,47,add,1.0,4.0,2.0,3.0,2.0,3.0,2.0,3.0
+19,385037-output1,obese woman on motorcycle,Make the woman obese.,48,change,2.0,3.0,2.0,3.0,1.0,4.0,3.0,2.0
+607,26221-input,couch with lion laying on it,make a lion laying on the couch,49,add,4.0,1.0,5.0,0.0,4.0,1.0,4.0,1.0
+770,84031-output1,tennis ball flying toward player with racquet,change the baseball to a tennis ball,50,change,2.0,3.0,3.0,2.0,3.0,2.0,2.0,3.0
+153,319522-input,white horses grazing on a lush green field.,Let the horses turn white.,51,change,2.0,3.0,2.0,3.0,2.0,3.0,3.0,2.0
+504,540100-output2,bowl of rice with broccoli and cheese and salt,add some salt next to the bowl,52,add,3.0,2.0,4.0,1.0,0.0,5.0,1.0,4.0
+101,393403-input,train traveling down a street.,change the bus into a train,53,change,2.0,3.0,2.0,3.0,3.0,2.0,2.0,3.0
+193,229419-output2,"cornfield with tractor, horses, and dog",make the field a cornfield.,54,change,2.0,3.0,2.0,3.0,1.0,4.0,2.0,3.0
+126,360510-output1,cat on truck roof with sun shining on building,have the sun shine on the building,55,add,4.0,1.0,1.0,4.0,2.0,3.0,3.0,2.0
+672,147471-input,The man and women rest as their dog stands on the trail.,What if the man was bald?,56,change,1.0,4.0,2.0,3.0,1.0,4.0,2.0,3.0
+127,360510-output2,fishing poles,add fishing poles,57,add,3.0,2.0,4.0,1.0,2.0,3.0,2.0,3.0
+307,534555-output1,red helmet,Change the batter's helmet to be red,58,change,4.0,1.0,4.0,1.0,4.0,1.0,3.0,2.0
+327,300994-output2,cat eating fire truck cake,add a cat eating the cake,59,add,3.0,2.0,3.0,2.0,3.0,2.0,2.0,3.0
+71,169365-input,meowing cat in sink with toothbrush and cup,let the cat meow,60,change,2.0,3.0,4.0,1.0,3.0,2.0,1.0,4.0
+576,392850-input,fruit and rice on a table,Have there be rice in the clear bowl,61,add,2.0,3.0,3.0,2.0,2.0,3.0,3.0,2.0
+851,130586-output2,girl with dog,Add a dog next to the girl.,62,add,1.0,4.0,5.0,0.0,1.0,4.0,4.0,1.0
+772,434496-input,buffet table with fruits,put some fruits,63,add,4.0,1.0,4.0,1.0,3.0,2.0,4.0,1.0
+88,151050-output2,woman jogging in the back,add a woman jogging in the back,64,add,4.0,1.0,3.0,2.0,4.0,1.0,3.0,2.0
+350,229139-input,suitcase with blue interior on bed,remove the cat,65,remove,2.0,3.0,1.0,4.0,2.0,3.0,1.0,4.0
+269,389986-input,woman hitting a ball with a racket,make a woman hold the racket,66,add,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+503,540100-output1,"yellow bowl with rice, broccoli, and cheese",let the bowl be yellow,67,change,5.0,0.0,2.0,3.0,5.0,0.0,3.0,2.0
+664,243361-input,man sitting at cluttered dining room table,let a man sit on a chair at the table,68,add,4.0,1.0,4.0,1.0,3.0,2.0,3.0,2.0
+484,407574-output1,ripe bananas for sale,Change the unripe bananas on the top to ripe.,69,change,1.0,4.0,1.0,4.0,2.0,3.0,1.0,4.0
+200,396260-output1,trash can with soda cans inside the suitcase,add soda cans inside the suitcase,70,add,3.0,2.0,4.0,1.0,3.0,2.0,3.0,2.0
+1046,47074-output2,"woman painting on wall near kitchen, computer, and bowl of roast chicken.",let the woman paint on the wall,71,change,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+488,97579-output2,A woman holding a banana and a remote control looking at the camera while a man looks at her.,make the woman look at the camera,72,change,0.0,5.0,0.0,5.0,1.0,4.0,1.0,4.0
+242,276703-output1,car parked in the street with trees behind it and a bunch of flowers by the car.,Have there be a bunch of flowers by the car,73,add,1.0,4.0,1.0,4.0,2.0,3.0,2.0,3.0
+1034,364549-output1,A woman in a designer gown standing on a street with many birds.,remove the shrubs,74,remove,1.0,4.0,1.0,4.0,2.0,3.0,2.0,3.0
+355,502808-input,bathroom with closed shower curtain,Let the shower curtain close the bathtub.,75,change,2.0,3.0,2.0,3.0,1.0,4.0,1.0,4.0
+883,139653-input,flock of birds flying by,Have there be a flock of birds flying by,76,add,2.0,3.0,2.0,3.0,2.0,3.0,2.0,3.0
+993,399547-input,green glass mug filled with forks and toothpaste,Change the toothbrushes to forks,77,change,1.0,4.0,1.0,4.0,1.0,4.0,1.0,4.0
+657,405249-input,child blowing out candles on a birthday cake,Eliminate the cake on the right that has toys,78,remove,2.0,3.0,1.0,4.0,0.0,5.0,1.0,4.0
+128,208469-input,round pizza,make the pizza round,79,change,2.0,3.0,2.0,3.0,3.0,2.0,3.0,2.0
+74,330790-input,elephant with red bow on head carrying plants in tusk,put a red bow on the elephant's head,80,add,5.0,0.0,5.0,0.0,5.0,0.0,5.0,0.0
+829,254004-output1,men in suits and baggage handlers loading a crate onto a plane.,add men in suits,81,add,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+1003,189461-input,coffee cup with straw,Have a straw coming out of the cup.,82,add,3.0,2.0,4.0,1.0,3.0,2.0,3.0,2.0
+440,45596-input,metal structure near building with no plant life,What if there was no plant life along the building,83,remove,1.0,4.0,1.0,4.0,1.0,4.0,1.0,4.0
+953,409050-output1,sitting room with aquarium door,turn the glass door in an aquarium,84,change,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+826,37662-output1,cap with Japanese flag,put the japanese flag on the cap,85,add,4.0,1.0,4.0,1.0,4.0,1.0,5.0,0.0
+550,524311-input,man in tuxedo holding Wii remote and laughing.,change his outfit into a tuxedo,86,change,3.0,2.0,4.0,1.0,2.0,3.0,3.0,2.0
+162,318657-input,spaceship in the sky,Have there be a spaceship in the sky,87,add,3.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0
+274,318189-output1,person on top of old car with Canadian flag,change the surfboard into a person,88,change,2.0,3.0,2.0,3.0,2.0,3.0,1.0,4.0
+366,343849-output2,wine bottle and green web page on a desk,add a wine bottle,89,add,2.0,3.0,4.0,1.0,3.0,2.0,4.0,1.0
+24,308332-input,bedroom with mermaid picture on wall,Have there be a mermaid in the picture on the wall,90,add,2.0,3.0,3.0,2.0,1.0,4.0,1.0,4.0
+393,262686-input,man pointing at another man,let the man point to another man,91,change,1.0,4.0,2.0,3.0,3.0,2.0,1.0,4.0
+749,318924-input,real zebra statue on display in a museum.,let the statue of zebra be real,92,change,1.0,4.0,0.0,5.0,2.0,3.0,1.0,4.0
+1022,44080-output2,clipboard,add a clipboard,93,add,4.0,1.0,4.0,1.0,3.0,2.0,3.0,2.0
+148,446522-output2,floor lamp next to chair,Place a floor lamp next to the chair.,94,add,3.0,2.0,5.0,0.0,4.0,1.0,3.0,2.0
+737,137118-input,wooden stools in living room,Let the stool be made of wood.,95,change,3.0,2.0,2.0,3.0,3.0,2.0,3.0,2.0
+798,508582-input,pepperoni pizzas,Make both the pizzas pepperoni.,96,change,4.0,1.0,1.0,4.0,3.0,2.0,2.0,3.0
+712,573448-output2,spider and metal blender containing vegetables,add a spider next to the blender,97,add,2.0,3.0,2.0,3.0,3.0,2.0,3.0,2.0
+1039,279994-input,dog with butterfly,Put a butterfly on the dog.,98,add,5.0,0.0,4.0,1.0,5.0,0.0,4.0,1.0
+507,108649-output1,baseball cap and wooden block,Replace the glove with a wooden block.,99,change,2.0,3.0,1.0,4.0,1.0,4.0,1.0,4.0
+656,460460-input,"home bar with assorted alcohol bottles, strings of lights, and a cozy couch with a pillow.",throw a pillow on that couch,100,add,1.0,4.0,1.0,4.0,2.0,3.0,2.0,3.0
+370,139-output2,cat sleeping on floor by table,Have a cat sleep on the floor by the table.,101,add,3.0,2.0,2.0,3.0,3.0,2.0,2.0,3.0
+339,315702-output1,Rectangle-shaped bathroom sink with folded towels under the counter and toiletries on top.,let the sink be rectangle in shape,102,change,3.0,2.0,3.0,2.0,2.0,3.0,4.0,1.0
+395,262686-output2,"smiling man pointing at another man's food on a tray, while looking at the camera.",let the sitting man smile,103,change,0.0,5.0,3.0,2.0,0.0,5.0,2.0,3.0
+902,21404-input,tall clock with English numbers by the ocean,let the clock have English numbers,104,change,4.0,1.0,3.0,2.0,4.0,1.0,3.0,2.0
+779,518182-input,a guy playing with a ball on the beach.,replace the frisbee with a ball,105,change,4.0,1.0,3.0,2.0,2.0,3.0,2.0,3.0
+374,122913-input,A racoon in a suitcase.,A racoon is sitting inside of a suitcase.,106,add,3.0,2.0,3.0,2.0,4.0,1.0,4.0,1.0
+838,208868-output1,glass of wine,put a glass of wine next to the pizza,107,add,5.0,0.0,4.0,1.0,5.0,0.0,4.0,1.0
+515,499730-output1,clock sign in front of a large building with multiple balconies.,Make the bottom sign a clock.,108,change,2.0,3.0,3.0,2.0,3.0,2.0,3.0,2.0
+13,408425-input,white curtains,change the bright lime green curtains to white curtains,109,change,4.0,1.0,1.0,4.0,3.0,2.0,2.0,3.0
+461,303257-input,curled trunk elephants,Curl its trunk.,110,change,1.0,4.0,2.0,3.0,1.0,4.0,2.0,3.0
+124,88759-output1,watermelon in kitchen,put a watermelon on the kitchen,111,add,5.0,0.0,4.0,1.0,5.0,0.0,4.0,1.0
+862,438876-output2,senior player with stick and tennis ball,replace the tennis racquet into a stick,112,change,2.0,3.0,1.0,4.0,2.0,3.0,1.0,4.0
+341,159791-input,white refrigerator freezer,Remove all the magnets and stickers.,113,remove,4.0,1.0,2.0,3.0,4.0,1.0,3.0,2.0
+35,116518-output2,dragonfly on dog's ear,Put a dragonfly on the dog's ear.,114,add,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+1008,294920-input,book and wine glass on table,Let a book sit next to the wine glass.,115,change,0.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0
+873,485234-output2,knife on sliced bread,Put a knife on the bread.,116,add,3.0,2.0,2.0,3.0,4.0,1.0,2.0,3.0
+760,411727-output2,"Hand holding a laptop with media player, books, eye shadow kit, and other accessories on the table.",let there be a person's hand on the table,117,add,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+55,398772-input,wheelchair next to bed with tray and fridge in room.,change the chair into a wheel chair.,118,change,3.0,2.0,2.0,3.0,3.0,2.0,2.0,3.0
+69,335874-output1,polar bear holding a pizza,Have the polar bear be holding a whole pizza in its mouth,119,add,4.0,1.0,5.0,0.0,5.0,0.0,5.0,0.0
+511,482775-input,plates with cake,Put a cake on the plate.,120,add,1.0,4.0,3.0,2.0,2.0,3.0,3.0,2.0
+255,151761-input,baby elephant holding trunk,Let the baby elephant hold up its trunk.,121,change,2.0,3.0,4.0,1.0,2.0,3.0,2.0,3.0
+423,262283-input,vases filled with red roses,make the flowers into red roses,122,change,4.0,1.0,3.0,2.0,2.0,3.0,3.0,2.0
+986,561514-input,violet table in a kitchen with tiled floor,let the floor be tiled,123,change,4.0,1.0,3.0,2.0,4.0,1.0,3.0,2.0
+524,558538-output2,kids playing in front of two houses,add kids playing in front of the two houses,124,add,2.0,3.0,2.0,3.0,3.0,2.0,3.0,2.0
+946,12766-input,glass of wine on the table,Could it be a glass of wine on the table?,125,add,2.0,3.0,1.0,4.0,2.0,3.0,2.0,3.0
+651,335912-input,new shirt,change the shirt,126,change,4.0,1.0,3.0,2.0,3.0,2.0,3.0,2.0
+871,485234-input,bread on board,It should be bread on the board.,127,change,5.0,0.0,3.0,2.0,4.0,1.0,3.0,2.0
+874,510955-input,woman wearing glasses in a kitchen,Let the woman wear glasses.,128,add,0.0,5.0,1.0,4.0,0.0,5.0,0.0,5.0
+933,425609-output2,cupcakes with strawberry on top,Add a strawberry on top of the cupcake with frosting,129,add,2.0,3.0,3.0,2.0,3.0,2.0,3.0,2.0
+733,92187-input,parking meter with barbie doll on top,Replace the wooden figure with a barbie doll.,130,change,2.0,3.0,3.0,2.0,2.0,3.0,3.0,2.0
+536,359687-input,man sitting in a boat at the marina,let a man sit in a boat,131,add,4.0,1.0,2.0,3.0,3.0,2.0,3.0,2.0
+1040,95061-input,woman next to the bus,What if there is a woman next to the bus?,132,add,4.0,1.0,3.0,2.0,4.0,1.0,3.0,2.0
+376,377368-input,4th birthday cake shaped as a Teddy Bear on a wooden table.,Make the cake for a 4th birthday instead of 30th.,133,change,2.0,3.0,2.0,3.0,2.0,3.0,2.0,3.0
+180,75216-output1,duck and cow in a herd of cattle,let there be a duck,134,add,3.0,2.0,2.0,3.0,2.0,3.0,3.0,2.0
+818,132847-input,Canadian flag on airplane tail.,change the British flag into a Canadian flag,135,change,4.0,1.0,3.0,2.0,4.0,1.0,3.0,2.0
+1031,455219-input,oxen and snake in field,Add a snake to the road in front of the oxen.,136,add,4.0,1.0,2.0,3.0,4.0,1.0,2.0,3.0
+661,151480-output1,Baseball players lined up in the outfield with a mascot in the stands.,line the player up in a line.,137,change,3.0,2.0,2.0,3.0,4.0,1.0,3.0,2.0
+872,485234-output1,sliced loaf of bread with cup of coffee in background,put a cup of coffee on the background.,138,add,5.0,0.0,3.0,2.0,5.0,0.0,4.0,1.0
+460,196878-output1,newspaper with holiday dinner scene and extra glass of wine,remove the candle stick,139,remove,2.0,3.0,1.0,4.0,2.0,3.0,1.0,4.0
+931,425609-input,Three mini cupcakes are displayed with two spoons.,Change the forks to spoons,140,change,1.0,4.0,3.0,2.0,1.0,4.0,3.0,2.0
+383,357941-input,cat hanging from TV,Make the cat hang from the TV,141,change,5.0,0.0,3.0,2.0,5.0,0.0,3.0,2.0
+151,383220-output1,Squirrels playing tennis in the snow under the moonlight,make it night and add the moon,142,change,5.0,0.0,3.0,2.0,5.0,0.0,3.0,2.0
+411,294974-input,plane with pig logo,Give the plane a pig logo.,143,add,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+58,114697-input,baseball coach,Add a baseball coach.,144,add,3.0,2.0,3.0,2.0,3.0,2.0,2.0,3.0
+32,441483-input,toilet with lid,Let the toilet bowl have a lid.,145,add,5.0,0.0,3.0,2.0,5.0,0.0,3.0,2.0
+20,385037-output2,woman with helmet on motorcycle,Give the woman a helmet.,146,add,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0
+979,476335-input,group of men and women working the kitchen behind a counter top,swap one of the man for a woman,147,change,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+42,70491-output1,movie poster on the wall,let there be a movie poster on the wall,148,add,0.0,5.0,1.0,4.0,1.0,4.0,0.0,5.0
+272,292991-input,drawing on the wall,What if the there is a drawing on the wall?,149,add,3.0,2.0,1.0,4.0,3.0,2.0,1.0,4.0
+107,482545-input,iguana drinking water from a toilet bowl,Change the cat to an iguana,150,change,4.0,1.0,4.0,1.0,3.0,2.0,3.0,2.0
+21,464144-input,boy skiing down the hill with goggles up.,Let a boy ski.,151,change,2.0,3.0,3.0,2.0,0.0,5.0,2.0,3.0
+893,446917-output1,carrot and sunscreen in back pocket of racing motorcycle rider,let there be a carrot instead of the banana,152,add,3.0,2.0,3.0,2.0,4.0,1.0,3.0,2.0
+1011,572765-input,harbor with submarine,Have there be a submarine in the water,153,add,4.0,1.0,4.0,1.0,3.0,2.0,3.0,2.0
+173,60892-input,dog on two double beds in a hotel room with a logo on the comforter.,Add a dog.,154,add,3.0,2.0,3.0,2.0,4.0,1.0,3.0,2.0
+167,278555-input,man with backpack holding a surfboard on rocks overlooking the ocean.,What if he was with a backpack?,155,add,4.0,1.0,5.0,0.0,4.0,1.0,4.0,1.0
+971,349302-input,giraffe and monkey standing in the dirt,Change one of the giraffes to a monkey,156,change,3.0,2.0,5.0,0.0,4.0,1.0,5.0,0.0
+773,434496-output1,donuts on a buffet table,swap the food for donuts,157,change,4.0,1.0,4.0,1.0,5.0,0.0,4.0,1.0
+922,398157-input,bathroom with vase of flowers on counter,Let's add a vase of flowers to the counter.,158,add,5.0,0.0,5.0,0.0,4.0,1.0,5.0,0.0
+1002,443320-output1,"apples, oranges, and a banana with a fly on one of the oranges.",Put a fly on one of the oranges.,159,add,3.0,2.0,3.0,2.0,4.0,1.0,3.0,2.0
+662,231682-input,A man riding a bicycle.,change the motorcycle into a bicycle,160,change,1.0,4.0,3.0,2.0,2.0,3.0,3.0,2.0
+157,125109-input,kitchen with red tile floor and oven/cooker,change the wooden floor into a red tile floor,161,change,5.0,0.0,4.0,1.0,5.0,0.0,5.0,0.0
+906,391388-input,"bowl of white rice, brown rice, and apple slices",remove the broccoli and onions and add an apple,162,change,1.0,4.0,1.0,4.0,1.0,4.0,1.0,4.0
+814,512442-output1,woman standing next to a baby giraffe,replace the elephant with a baby giraffe,163,change,1.0,4.0,2.0,3.0,3.0,2.0,1.0,4.0
+261,360535-output2,"living room with furniture, television, clock on the wall, and a ceiling fan.",add a ceiling fan,164,add,3.0,2.0,5.0,0.0,3.0,2.0,4.0,1.0
+863,172686-input,"table topped with oranges, salad, and dessert bowl",let there be a bowl of dessert,165,add,2.0,3.0,3.0,2.0,4.0,1.0,2.0,3.0
+879,329737-input,yellow keyboard on black background,let the keyboard be yellow,166,change,0.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0
+653,214028-output1,bedroom with television,Can we have a television?,167,add,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+549,172406-input,close up of a horse tethered to a carriage,remove the blinders from the horse,168,remove,1.0,4.0,3.0,2.0,1.0,4.0,3.0,2.0
+810,173401-output2,parking lot and cow in grassy field next to dirt road,let there be a parking lot,169,add,5.0,0.0,5.0,0.0,3.0,2.0,5.0,0.0
+887,529266-output1,horse and boat on beach with lighthouse,add a boat,170,add,3.0,2.0,3.0,2.0,3.0,2.0,4.0,1.0
+425,490443-output1,car on the beach,Put a car on the beach.,171,add,3.0,2.0,4.0,1.0,4.0,1.0,4.0,1.0
+691,294918-input,"wild pig, people, bicycles, sunglasses, cars, and buildings",Add a wild pig.,172,add,4.0,1.0,4.0,1.0,4.0,1.0,4.0,1.0
+658,405249-output1,second chocolate cake,Add a second chocolate cake,173,add,2.0,3.0,2.0,3.0,2.0,3.0,2.0,3.0
+144,475425-input,floral dinner plate,remove all the food from the plate,174,remove,2.0,3.0,3.0,2.0,3.0,2.0,2.0,3.0
+295,376891-output1,Person looking at doughnuts,have the person look towards the doughnuts.,175,change,3.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0
+54,171328-output2,"Tree with ripe, yellowed leaves and berries, with tower in background.",let the leaves be ripe and yellowed,176,change,2.0,3.0,1.0,4.0,1.0,4.0,1.0,4.0
+1038,169763-input,monkey on police motorcycle,put a monkey on top of the bike,177,add,4.0,1.0,4.0,1.0,4.0,1.0,3.0,2.0
+802,498988-output1,A black and white cat is sitting in front of a laptop with a blue screen on a desk.,Remove the bottle.,178,remove,0.0,5.0,0.0,5.0,0.0,5.0,0.0,5.0
+379,163897-input,Truck in the grass with fixed fender.,Fix the fender.,179,change,2.0,3.0,2.0,3.0,3.0,2.0,2.0,3.0
+159,125109-output2,kitchen with stove and chimney,let there be a big chimney over the stove,180,add,1.0,4.0,1.0,4.0,2.0,3.0,1.0,4.0
+1030,360449-output2,toll booth and stoplight on empty city street at night with car parking garage in background,Add a toll booth,181,add,2.0,3.0,3.0,2.0,2.0,3.0,2.0,3.0
+480,342387-input,people wearing chef hats in a kitchen,change the hats into chef hats,182,change,0.0,5.0,0.0,5.0,1.0,4.0,1.0,4.0
+303,274629-input,parking sign with Time Magazine cover underneath,change the stop sign to a parking sign,183,change,2.0,3.0,3.0,2.0,3.0,2.0,3.0,2.0
+318,208963-input,man with luggage holding a blue striped umbrella,Let the umbrella turn blue.,184,change,1.0,4.0,1.0,4.0,2.0,3.0,2.0,3.0
+741,78085-input,L-shaped office desk with a microwave and two monitors.,change the laptop to a microwave,185,change,3.0,2.0,3.0,2.0,3.0,2.0,2.0,3.0
+875,475169-input,cat watching pigeons,Have a cat watch the pigeons.,186,add,4.0,1.0,5.0,0.0,3.0,2.0,3.0,2.0
+543,455879-output1,Three sombreros and three baseball bats sitting on a large white block.,remove the blood,187,remove,4.0,1.0,3.0,2.0,3.0,2.0,3.0,2.0
+422,393286-input,apple and partially peeled banana on desk,A apple and a partially peeled banana sits near other items on a desk.,188,add,4.0,1.0,3.0,2.0,3.0,2.0,3.0,2.0
+437,445397-output2,television on the wall,let there be television on the wall,189,add,2.0,3.0,1.0,4.0,0.0,5.0,0.0,5.0
+391,25551-output1,food truck and police cars stopped at scene of accident with man in police uniform,let the man be dressed in a police uniform,190,change,2.0,3.0,1.0,4.0,2.0,3.0,1.0,4.0
+954,327702-input,hand feeding giraffe at zoo with bag,replace the child with a bag,191,change,4.0,1.0,4.0,1.0,3.0,2.0,3.0,2.0
+0,242679-input,cat on seat,Put a cat on the seat.,192,add,5.0,0.0,5.0,0.0,4.0,1.0,4.0,1.0
+984,92212-output1,Group of limousines parked on a street next to a Stop sign.,Change the Pay Here sign to Stop Sign,193,change,4.0,1.0,4.0,1.0,4.0,1.0,5.0,0.0
+659,405249-output2,balloon on table,Add a balloon on the table,194,add,3.0,2.0,1.0,4.0,3.0,2.0,3.0,2.0
+203,102174-input,work desk with a cockatiel,make the cockatiel open its mouth,195,change,3.0,2.0,4.0,1.0,4.0,1.0,3.0,2.0
+682,23355-output2,dining table with people and man holding pizzas and roast chicken in kitchen,let there be a bunch of people at the dining table,196,add,3.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0
+865,172686-output2,table with fruit and dessert,let a rat sniff the bowl,197,add,3.0,2.0,3.0,2.0,4.0,1.0,4.0,1.0
+500,62398-input,standing black and white cat with collars,make the cat stand,198,change,1.0,4.0,2.0,3.0,2.0,3.0,2.0,3.0
+170,528266-output2,man with crew cut hair on couch with an open box of pizza covering his mouth with his hand,let the man have crew cut hair,199,change,2.0,3.0,1.0,4.0,1.0,4.0,2.0,3.0
